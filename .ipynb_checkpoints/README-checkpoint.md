@@ -1,5 +1,6 @@
 # European-Soccer-Database
 
-I can't upload the database as it is bigger than 25 mb so I have to figure another way to load it in the notebook. 
+This was a project I had as a part of The Data Analyst Nanodegree on Udacity. I will be working on it to expand it and to practice `SQL`, `pandas` and `seaborn`.
 
-The database is too big to upload to github. You can download it from [here](https://www.kaggle.com/hugomathien/soccer)
+The database is too big to uplaod. I will figure another way to load it in the notebook. For now, you can download it from [here](https://www.kaggle.com/hugomathien/soccer). 
+
